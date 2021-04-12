@@ -3,3 +3,5 @@
 !*.py
 !.gitignore
 !README.md
+!*.txt
+!*.yml
