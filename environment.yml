@@ -2,8 +2,8 @@ name: musyc_demo
 channels:
   - defaults
 dependencies:
-  - ipywidgets=7.6.3=pyhd3eb1b0_1
-  - numpy=1.19.2=py38h54aff64_0
-  - numpy-base=1.19.2=py38hfa32c7d_0
-  - plotly=4.14.3=pyhd3eb1b0_0
-  - python=3.8.8=hdb3f193_4
+  - ipywidgets=7.6.3
+  - numpy=1.19.2
+  - numpy-base=1.19.2
+  - plotly=4.14.3
+  - python=3.8.8
