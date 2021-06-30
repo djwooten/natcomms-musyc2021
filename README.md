@@ -20,4 +20,4 @@ When you first open the jupyter notebook, you will have to rerun all the cells. 
 
 Once the cells have finished running, you can adjust sliders, rotate, zoom, and explore the included synergy models. The MuSyC dose-resposne surface, and Bliss and Loewe synergy surface plots will respond in real time.
 
-![Example screenshot](screenshot.png)
+<img src="screenshot.png" width="55%" alt="Example screenshot" />
